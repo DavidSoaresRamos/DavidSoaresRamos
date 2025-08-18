@@ -25,8 +25,8 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens"  />
 </div>
 
 ---
