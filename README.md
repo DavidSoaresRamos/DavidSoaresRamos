@@ -1,6 +1,5 @@
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/M9gC8U7j2T4s/giphy.gif" width="100px" alt="Aperto de mão animado" />
   <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
   <h3 align="center">🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
 </div>
@@ -28,13 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" width="48%" />
-</div>
-
----
-
-<h3 align="center">👀 Visualizações no Perfil</h3>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidSoaresRamos&color=2196F3" alt="Contador de Visualizações" />
 </div>
 
 ---
