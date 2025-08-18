@@ -1,20 +1,21 @@
-<!-- Banner ou texto animado -->
+<!-- Banner ou título -->
 <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
 <h3 align="center">🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
 
 ---
 
-###  Sobre mim
-- Estudante e **Desenvolvedor em formação**
-- Curioso por **Java**, **JavaScript**, **TypeScript**, e ferramentas como **Angular**, **Node.js**, **MongoDB**
-- Em busca de crescimento contínuo e desafios
-- Café, código e criatividade — combinação perfeita! ☕💻
+### 📌 Sobre mim
+- 🎯 Estudante e **Desenvolvedor em formação**
+- 💻 Curioso por **Java**, **JavaScript**, **TypeScript** e frameworks como **Angular**, **Node.js**, **MongoDB**
+- 🚀 Em busca de crescimento contínuo e novos desafios
+- ☕ Café + código + criatividade = ❤️
 
 ---
 
-###  Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,11 +24,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
 
-###  Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   
@@ -41,7 +43,7 @@
 
 ---
 
-###  Snake Contributions
+### 🐍 Snake Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -49,8 +51,11 @@
 
 ---
 
-###  Vamos nos conectar
+### 📫 Vamos nos conectar!
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-soares-ramos-751117278/)
+
 </div>
+
