@@ -26,7 +26,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" width="32%" />
 </div>
 
 ---
