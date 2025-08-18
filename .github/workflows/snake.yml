@@ -1,0 +1,2 @@
+- name: snakedeploy
+  uses: snakemake/snakedeploy-github-action@v1.0.3
