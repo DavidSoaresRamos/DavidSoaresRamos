@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QvI2cO2xLw6I8Q8c8J/giphy.gif" width="100px" alt="Olá" />
+  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/main/assets/wave.gif" width="100px" alt="Olá" />
   <h1>👋 Olá, eu sou o David Ramos</h1>
   <h3>🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
 </div>
