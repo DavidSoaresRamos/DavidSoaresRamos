@@ -40,10 +40,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=nightowl&hide_border=true" alt="Principais Linguagens" />
   </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSoaresRamos&theme=nightowl&hide_border=true" alt="Sequência de Contribuições" />
-  </p>
 </div>
 
 ---
