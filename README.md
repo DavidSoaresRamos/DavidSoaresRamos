@@ -47,7 +47,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=radical&hide_border=true" alt="Principais Linguagens" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=radical&hide_border=true" alt="Principais Linguagens" />
 
 </div>
 
