@@ -1,18 +1,3 @@
-1️⃣ Programathor
- 2️⃣ Hipsters.Jobs
- 3️⃣ Apinfo
- 4️⃣ Trampos.co
- 5️⃣ LinkedIn
- 6️⃣ Geek Hunter
- 7️⃣ Profissionais TI
- 8️⃣ Indeed
- 9️⃣ Freelancer
- 🔟 Workana
- 1️⃣1️⃣ Vagas Home Office
- 1️⃣2️⃣ Remote OK
- 1️⃣3️⃣ Stack Overflow
- 1️⃣4️⃣ Upwork
- 1️⃣5️⃣ We Work Remotely
 
 <!-- Banner ou título -->
 <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
