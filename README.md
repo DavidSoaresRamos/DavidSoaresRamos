@@ -1,62 +1,68 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/main/assets/wave.gif" width="100px" alt="Olá" />
-  <h1>👋 Olá, eu sou o David Ramos</h1>
-  <h3>🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
+  <a href="https://github.com/DavidSoaresRamos">
+    <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/main/assets/banner_david.svg" alt="Banner do Perfil de David Ramos" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/M9gC8U7j2T4s/giphy.gif" width="100px" alt="Aperto de mão animado" />
+  <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
+  <h3 align="center">🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
 </div>
 
 ---
 
 ### 📌 Sobre mim
-
-- 🎯 Estudante e **Desenvolvedor em formação**
-- 💻 Curioso por **Java**, **JavaScript**, **TypeScript** e frameworks como **Angular**, **Node.js**, **MongoDB**
-- 🚀 Em busca de crescimento contínuo e novos desafios
-- ☕ Café + código + criatividade = ❤️
+<br>
+- 🎯 Estudante e **Desenvolvedor em formação** com foco em soluções web e mobile.
+- 💻 Proficiente em **Java**, **JavaScript**, **TypeScript** e explorando frameworks como **Angular**, **Node.js**, **MongoDB**.
+- 🚀 Em busca de crescimento contínuo, novos desafios e oportunidades de colaborar em projetos inovadores.
+- ☕ Programação, café e criatividade são a combinação perfeita para mim.
 
 ---
 
+<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
 <div align="center">
-  <h3>🛠️ Tecnologias & Ferramentas</h3>
-  <br>
-  
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-  [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,angular,nodejs,mongodb,git,docker,postman,vscode" alt="Ícones de Tecnologias" />
 </div>
 
 ---
 
+<h3 align="center">📊 Estatísticas do GitHub</h3>
+<br>
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
+  <a href="https://github.com/DavidSoaresRamos">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" />
+  </a>
+</div>
+<div align="center">
   <br>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=radical&hide_border=true" alt="Principais Linguagens" />
-
+  <a href="https://github.com/DavidSoaresRamos">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSoaresRamos&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
+  </a>
 </div>
 
+---
 
-### 📫 Vamos nos conectar!
-
+<h3 align="center">🐍 Snake Contributions</h3>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
+</div>
+<br>
+<p align="center">
+  <i>Lembre-se: para a animação da cobra funcionar, você precisa configurar a Ação do GitHub no seu repositório.</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-soares-ramos-751117278/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidgsrx?igsh=MWtubzVjNmlvYjNzeA==)
+---
 
+<h3 align="center">📫 Vamos nos conectar!</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-soares-ramos-751117278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/davidgsrx?igsh=MWtubzVjNmlvYjNzeA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
