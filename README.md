@@ -26,16 +26,8 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 <br>
 <div align="center">
-  <a href="https://github.com/DavidSoaresRamos">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" />
-  </a>
-</div>
-<div align="center">
-  <br>
-  <a href="https://github.com/DavidSoaresRamos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSoaresRamos&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidSoaresRamos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSoaresRamos&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" width="45%" />
 </div>
 
 ---
