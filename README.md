@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/DavidSoaresRamos">
-    <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/main/assets/banner_david.svg" alt="Banner do Perfil de David Ramos" />
-  </a>
-</div>
-
-<div align="center">
   <br>
   <img src="https://media.giphy.com/media/M9gC8U7j2T4s/giphy.gif" width="100px" alt="Aperto de mão animado" />
   <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
@@ -15,8 +9,8 @@
 
 ### 📌 Sobre mim
 <br>
-- 🎯 Estudante e **Desenvolvedor em formação** com foco em soluções web e mobile.
-- 💻 Proficiente em **Java**, **JavaScript**, **TypeScript** e explorando frameworks como **Angular**, **Node.js**, **MongoDB**.
+- 🎯 Estudante e Desenvolvedor em formação com foco em soluções web e mobile.
+- 💻 Proficiente em Java, JavaScript, TypeScript e explorando frameworks como Angular, Node.js, MongoDB.
 - 🚀 Em busca de crescimento contínuo, novos desafios e oportunidades de colaborar em projetos inovadores.
 - ☕ Programação, café e criatividade são a combinação perfeita para mim.
 
@@ -46,14 +40,10 @@
 
 ---
 
-<h3 align="center">🐍 Snake Contributions</h3>
+<h3 align="center">👀 Visualizações no Perfil</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
+  <img src="https://komarev.com/ghpvc/?username=DavidSoaresRamos&color=2196F3" alt="Contador de Visualizações" />
 </div>
-<br>
-<p align="center">
-  <i>Lembre-se: para a animação da cobra funcionar, você precisa configurar a Ação do GitHub no seu repositório.</i>
-</p>
 
 ---
 
