@@ -1,5 +1,3 @@
-
-<!-- Banner ou título -->
 <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
 <h3 align="center">🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
 
@@ -57,6 +55,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-soares-ramos-751117278/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidgsrx?igsh=MWtubzVjNmlvYjNzeA==)
 
 </div>
-
