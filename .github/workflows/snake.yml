@@ -1,4 +1,4 @@
-name: generate-github-readme-stats-and-snake
+name: Generate a Snake Eating your Commits
 
 on:
   schedule:
@@ -7,15 +7,13 @@ on:
 
 jobs:
   build:
+    name: Generate snake
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-
-      - name: Generate the snake animation
-        uses: DavidSantosBento/github-contribution-grid-snake@v1
+      - uses: Platane/snk@v3 
         with:
           github_user_name: DavidSoaresRamos
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange
