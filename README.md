@@ -30,12 +30,7 @@
 </div>
 
 ---
-### 🐍 Snake Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
-</div>
 
----
 <h3 align="center">📫 Vamos nos conectar!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/david-soares-ramos-751117278/">
