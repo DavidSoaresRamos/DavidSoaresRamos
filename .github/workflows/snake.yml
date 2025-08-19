@@ -9,6 +9,8 @@ jobs:
   build:
     name: Generate snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v3
@@ -26,4 +28,3 @@ jobs:
           branch: main
           directory: dist
           force: true
-          message: "Generate a Snake Eating your Commits"
