@@ -43,4 +43,4 @@
  ---
 
 
- ![Snake animation](https://github.com/DavidSoaresRamos/DavidSoaresRamos/raw/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-snake.svg)
