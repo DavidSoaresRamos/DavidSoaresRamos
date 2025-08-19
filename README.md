@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/output/github-snake.svg" alt="Animação da cobra de commits" />
+  <img src="https://raw.githubusercontent.com/DavidSoaresRamos/DavidSoaresRamos/main/dist/github-snake-dark.svg" alt="Animação da cobra de commits" />
 </div>
