@@ -17,7 +17,7 @@
 ### 🛠️ Minhas Habilidades Técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,angular,react,mongodb,git,docker,postman,mysql,figma" alt="Ícones de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,angular,react,mongodb,git,docker,postman,mysql,figma,spring" alt="Ícones de Tecnologias" />
 </div>
 
 <br>
