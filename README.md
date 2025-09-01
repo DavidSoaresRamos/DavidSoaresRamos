@@ -17,15 +17,15 @@
 ### 🛠️ Minhas Habilidades Técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,angular,react,mongodb,git,docker,postman" alt="Ícones de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,angular,react,mongodb,git,docker,postman,mysql,intellij" alt="Ícones de Tecnologias" />
 </div>
 
 <br>
 
 - **Linguagens de Programação:** JavaScript, TypeScript, Java
 - **Frameworks & Bibliotecas:** Node.js, Angular, React
-- **Bancos de Dados:** MongoDB
-- **Ferramentas:** Git, Docker, Postman, VS Code
+- **Bancos de Dados:** MongoDB, MySQL
+- **Ferramentas:** Git, Docker, Postman, VS Code, Intellij
 
 ---
 
