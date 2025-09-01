@@ -8,9 +8,7 @@
 
 ### 📌 Sobre mim
 <br>
-- 🎯 Estudante e Desenvolvedor em formação com foco em **soluções web e mobile**.
-- 🚀 Em busca de crescimento contínuo, novos desafios e oportunidades de colaborar em projetos inovadores.
-- ☕ Programação, café e criatividade são a combinação perfeita para mim.
+Desenvolvedor Back-End, com foco em escrever código limpo e de fácil manutenção. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores em equipes colaborativas.
 
 ---
 
