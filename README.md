@@ -8,7 +8,7 @@
 
 ### 📌 Sobre mim
 <br>
-Desenvolvedor Back-End, com foco em escrever código limpo e de fácil manutenção. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores em equipes colaborativas.
+Desenvolvedor Back-End focado na criação de APIs eficientes e robustas. Experiência em escrever código limpo e de fácil manutenção, com ênfase em arquitetura de sistemas e testes. Busco atuar em projetos que desafiem e aprimorem minhas habilidades em um ambiente colaborativo.
 
 ---
 
