@@ -17,7 +17,7 @@
 
 <h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,angular,nodejs,mongodb,git,docker,postman,vscode" alt="Ícones de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,angular,nodejs,mongodb,git,docker,postman,vscode,react" alt="Ícones de Tecnologias" />
 </div>
 
 ---
