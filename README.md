@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1 align="center">👋 Olá, eu sou o David Ramos</h1>
-  <h3 align="center">🌟 Apaixonado por tecnologia, sempre aprendendo e criando</h3>
+  <h3 align="center">Desenvolvedor Back-End</h3>
 </div>
 
 ---
