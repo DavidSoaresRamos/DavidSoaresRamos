@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,angular,react" alt="Ícones de Frameworks" />
   <br><br>
   <h4>Bancos de Dados & Ferramentas:</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,docker,postman" alt="Ícones de Bancos de Dados e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,docker,postman,mysql" alt="Ícones de Bancos de Dados e Ferramentas" />
 </div>
 
 ---
